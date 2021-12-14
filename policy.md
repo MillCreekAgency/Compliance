@@ -1,40 +1,81 @@
 ---
-title: Mill Creek Agency Cybersecurity Program
-author: Bryce Thuilot, Chief Information Security Office
-date: 03/12/2021
+title: "Mill Creek Insurance Agency Cyber Policy"
+subtitle: "Compliant with 23 NYCRR 500.19"
+author:
+  - Bryce Thuilot <cyber@millcreekagency.com>
+date: Last Updated \today
 ---
 
-# Introduction
+## Purpose 
 
-This document is written in compliance with *New York State Department Of Financial Services 23 NYCRR 500*. The Mill Creek Agency qualifies for exemptions 500.19 a, 500.19 b, and 500.19 c thus outlined in this document are 500.02- Cybersecurity Program, 500.03- Cybersecurity Policy, 500.07- Access Privileges, 500.09- Risk Assessment, 500.11- Third Party Service Provider Security Policy, 500.13- Limitations on Data Retention, 500.17- Notices to Superintendent, 500.18- Confidentiality, 500.19- Exemptions, 500.20- Enforcement, 500.21- Effective Date, 500.22- Transitional Periods, 500.23- Severability. 
+Securing and protecting the confidentiality, integrity, and availability of information assets is in the public's best interest to ensure the safety and security of critical infrastructure, financial and business transactions, and Nonpublic Information (NPI).
+Failure to address the risks associated with cybersecurity could result in significant costs to Mill Creek Agency as a result of lost, compromised, or unauthorized use of NPI, legal and regulatory actions, and reputational damage and loss of customers, among other things. Cybersecurity Programs are critical to proactively protecting data, mitigating potential risks, and responding quickly and efficiently to cyber incidents, while maintaining compliance with best practice and regulatory requirements. 
 
-This document is to be updated every 6 months by the Chief Information Security Officer, or employee with knowledge of 23 NYCCR 500, and approved by the president. 
+The purpose of this Policy is to provide a framework for Mill Creek’s Cybersecurity Program, which is a documented set of information security policies, procedures, standards and guidelines.
+(DFS’s Cybersecurity Regulation requires both a Cybersecurity Program (23 NYCRR 500.02) and a Cybersecurity Policy (23 NYCRR 500.03)).
+Mill Creek's Cybersecurity Program shall provide a roadmap for effective security management practices and controls that protect and maintain the confidentiality, integrity, and availability of [ORG]’s Information Systems and information assets, including Nonpublic Information (NPI). 
+This Policy will be based upon the findings of Mill Creek’s Risk Assessment and will address the following core cybersecurity functions:
+- To protect and maintain the confidentiality, integrity, and availability of digital information and related infrastructure assets.
+- To manage the risk to Mill Creek of cybersecurity exposure and compromise.
+- To assure a secure and stable information technology (IT) environment at Mill Creek.
+  - identify, respond to, and recover from events involving the misuse, loss, and/or unauthorized disclosure of Mill Creek’s information assets.
+  - monitor Mill Creek’s information systems for anomalies that might indicate a compromise.
+  - promote and increase awareness of information security at [ORG] and to decrease the risk of cybersecurity exposure and compromise.
 
-# Definitions
+### Policy Scope {#scope}
 
-- **QQ Catalyst** - Third party policy/data management system.
+This Policy covers all of Mill Creek’s cybersecurity practices across all areas of its business. All Mill Creek employees, including contractors, third parties, and anyone else with access to Mill Creek’s systems and data, are required to comply with this Policy.
 
-- **CISO** - Chief Information Security Officer, as of writing this document the current CISO is Bryce Thuilot.
+### Policy Statement {#statement}
 
-- **Sensitive information/documents** - Any document/financial record that contains non public information.
+#### Roles and Responsibilities
+
+Mill Creek will designate an individual in a senior leadership position who is responsible for Mill Creek’s cybersecurity (Senior Officer).  The Senior Officer will:
+- Implement and maintain a written policy or written policies, approved by a Mill Creek’s Senior Management, setting forth the expectations and goals for the protection of Mill Creek’s Information Systems and Nonpublic Information (NPI) stored on those systems.
+- Ultimately be responsible and accountable for Mill Creek’s cyber compliance, risk, and resilience.
+- Oversee and implement [ORG]’s Cybersecurity Program and report to management on Mill Creek’s cybersecurity generally.
+- Conduct a formal, independent review of Mill Creek’s Cybersecurity Program and controls at least annually.
+- Prepare and submit the annual Certification of Compliance required by DFS’s Cybersecurity Regulation.
+- Conduct a cybersecurity Risk Assessment at least annually to inform the design of policy and overall cybersecurity program. 
+- Review cybersecurity policies, standards, guidelines, and procedures annually to ensure Mill Creek’s compliance with applicable laws, regulations, and industry best practices.
+
+Mill Creek’s employees, contractors, consultants and temporary and part-time workers will:
+- Ensure Mill Creek’s information assets are used solely for the purpose of pursuing Mill Creek’s business goals and objectives.
+- Take reasonable steps to ensure electronic information and assets are not improperly disclosed, modified, or destroyed.
+- Not deliberately circumvent information security controls and not make Mill Creek resources available to any unauthorized persons.
+- Report suspicious activity and/or unauthorized access to Mill Creek’s Information Systems and/or information immediately to their manager or the Senior Officer.
+	
+*The Senior Office is Bryce Thuilot <cyber@millcreekagency.com> as of \today.*
 
 
-# Section 1 - Cybersecurity Program
+#### Cybersecurity Policies to Support the Cybersecurity Program
 
-Mill Creek's cybersecurity program is laid out in the following sections, broken down by the requirements needed to be meet by 23 NYCCR 500. This program is meant to be followed by all Mill Creek Agency employees. The policy may only be updated by the CISO and must be approved by the president before implemented.
+Mill Creek will implement and maintain written policies in support of Mill Creek’s Cybersecurity Program. Such policies may include, but are not limited to:
 
-# Section 2 - Cybersecurity Policy 
+- [Access Control](#accesscontrol)
+- [Asset Device Management](#assestdevicemgmt)
+- [Data Classification](#dataclassification)
+- [Systems & Network Security](#systemsnetworksec)
+- [Physical security & Enviornmental Control](#envsecurity)
+- [Risk Assessment](#riskassessment)
+- [Third Party Service Provider](#tpsp)
 
-The Cybersecurity policy is based on the Risk Assessment performed in *Section 4*, it is broken down by the sections provided by the DFS 23 NYCRR 500
+	
+*These policies are all defined later in the document*
 
-  a. *Information Security & Data-Governance* - All sensitive and non public info must be kept on QQ Catalyst, or in Microsoft Office. No sensitive client data or internal data is to be kept on any computer. Data stored on any Mill Creek Agency device will be policy's of clients and any financial or personal information needed to write a policy. Any personal or financial information of a client, or any Non-Public information will need to be immediately uploaded to QQ Catalyst and deleted securely (moved to 'Trash Can' or 'Recycling Bin' and emptied) once uploaded.
-  
-  c. *Asset Inventory and Device Management* - All devices that contain Non-Public or client information and/or are used to operate must be approved the CISO. No mobile devices are to be used to store/download any non public information. All devices must be using disk encryption not able to be reset using iCloud or any cloud based service. Passwords for disk encryption will be chosen at random by the CISO and not used for anything else. For all user accounts, passwords bust be changed every **3 months and cannot be the same as the any of the previous 5 passwords**. In addition, all company computers must be running an anti virus (ClamAV) with a scan being required at the first and third Friday of each month. All computer must be checked and updated to latest version of all software used on the first day of each month.
+#### Training and Awareness
+- Mill Creek will ensure all users of Mill Creek’s Information Systems and anyone with access to Mill Creek’s data understand their roles and responsibilities in safeguarding NPI and other sensitive data and protecting company resources from unauthorized access. 
+- Mill Creek will provide regular cybersecurity awareness training for all personnel that is updated to reflect risks identified in the Risk Assessment as well as risks identified in the media and public sphere.
+- Mill Creek’s Senior Officer will receive cybersecurity training sufficient to address relevant cybersecurity risks.
+- Mill Creek will track and record attendance at training activities and shall retain records of attendance for all members of Mill Creek for audit purposes.
 
-  d. *Access controls and identity management* - All Access Control and Identity Management will be handled by our third party software, Microsoft Office and QQ Catalyst. Access to non public information will be given on a need to know basis, given to insurance brokers when needed to write policies and the executive staff.
+#### Cybersecurity Governance and Reporting
 
-  e. *Business continuity and disaster recovery planning and resources and systems operations and availability concerns* - All sensitive information stored by mill creek must be uploaded to QQ catalyst or Microsoft office in case of a 
+This Cybersecurity Policy leverages roles and responsibilities to support Mill Creek’s Cybersecurity Program objectives and strategies, and visibly promotes and provides support for cybersecurity initiatives throughout Mill Creek. Mill Creek’s Senior Officer shall report in writing on Mill Creek’s Cybersecurity Program and material cybersecurity risks at least annually.
 
-  f. 
+#### Policy Approval
 
-  g. *Systems and application development and quality assurance* - No software developed by Mill Creek is to be used in a production environment or to have any internet facing capabilities. Any software developed by any Mill Creek employee is to be used solely to automate process in the business 
+Mill Creek will review this Policy periodically for accuracy, completeness, and applicability, and will revise and approve it annually.
+
+
+
