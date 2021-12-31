@@ -13,14 +13,16 @@ Failure to address the risks associated with cybersecurity could result in signi
 
 The purpose of this Policy is to provide a framework for Mill Creek’s Cybersecurity Program, which is a documented set of information security policies, procedures, standards and guidelines.
 (DFS’s Cybersecurity Regulation requires both a Cybersecurity Program (23 NYCRR 500.02) and a Cybersecurity Policy (23 NYCRR 500.03)).
-Mill Creek's Cybersecurity Program shall provide a roadmap for effective security management practices and controls that protect and maintain the confidentiality, integrity, and availability of [ORG]’s Information Systems and information assets, including Nonpublic Information (NPI). 
+Mill Creek's Cybersecurity Program shall provide a roadmap for effective security management practices and controls that protect and maintain the confidentiality, integrity, and availability of Mill Creek’s Information Systems and information assets, including Nonpublic Information (NPI). 
+
 This Policy will be based upon the findings of Mill Creek’s Risk Assessment and will address the following core cybersecurity functions:
+
 - To protect and maintain the confidentiality, integrity, and availability of digital information and related infrastructure assets.
 - To manage the risk to Mill Creek of cybersecurity exposure and compromise.
 - To assure a secure and stable information technology (IT) environment at Mill Creek.
   - identify, respond to, and recover from events involving the misuse, loss, and/or unauthorized disclosure of Mill Creek’s information assets.
   - monitor Mill Creek’s information systems for anomalies that might indicate a compromise.
-  - promote and increase awareness of information security at [ORG] and to decrease the risk of cybersecurity exposure and compromise.
+  - promote and increase awareness of information security at Mill Creek and to decrease the risk of cybersecurity exposure and compromise.
 
 ### Policy Scope {#scope}
 
@@ -33,7 +35,7 @@ This Policy covers all of Mill Creek’s cybersecurity practices across all area
 Mill Creek will designate an individual in a senior leadership position who is responsible for Mill Creek’s cybersecurity (Senior Officer).  The Senior Officer will:
 - Implement and maintain a written policy or written policies, approved by a Mill Creek’s Senior Management, setting forth the expectations and goals for the protection of Mill Creek’s Information Systems and Nonpublic Information (NPI) stored on those systems.
 - Ultimately be responsible and accountable for Mill Creek’s cyber compliance, risk, and resilience.
-- Oversee and implement [ORG]’s Cybersecurity Program and report to management on Mill Creek’s cybersecurity generally.
+- Oversee and implement Mill Creek’s Cybersecurity Program and report to management on Mill Creek’s cybersecurity generally.
 - Conduct a formal, independent review of Mill Creek’s Cybersecurity Program and controls at least annually.
 - Prepare and submit the annual Certification of Compliance required by DFS’s Cybersecurity Regulation.
 - Conduct a cybersecurity Risk Assessment at least annually to inform the design of policy and overall cybersecurity program. 
@@ -59,11 +61,11 @@ Mill Creek will implement and maintain written policies in support of Mill Creek
 - [Physical security & Enviornmental Control](#envsecurity)
 - [Risk Assessment](#riskassessment)
 - [Third Party Service Provider](#tpsp)
-
 	
-*These policies are all defined later in the document*
+*These policies are all defined later in this document*
 
 #### Training and Awareness
+
 - Mill Creek will ensure all users of Mill Creek’s Information Systems and anyone with access to Mill Creek’s data understand their roles and responsibilities in safeguarding NPI and other sensitive data and protecting company resources from unauthorized access. 
 - Mill Creek will provide regular cybersecurity awareness training for all personnel that is updated to reflect risks identified in the Risk Assessment as well as risks identified in the media and public sphere.
 - Mill Creek’s Senior Officer will receive cybersecurity training sufficient to address relevant cybersecurity risks.

@@ -52,15 +52,17 @@ This Policy applies to all of Mill Creek’s data regardless of whether that dat
 
 ## Remote Access
 
-- Multi-Factor Authentication (MFA) will be required for all individuals using an external network to access Mill Creek’s internal network.
-- Mill Creek’s MFA will require the use of two authentication methods: first, a username and password or PIN combination, and second, a method not based on user credentials, such as a certificate or token, that Mill Creek shall provision to the user.
-- All remote access communications to internal networks will be authenticated, encrypted and monitored within a log. 
-- All machines used for remote access will have the latest antivirus, security patches, and host-based firewall software installed, running, and enabled.
-- Third party access to Mill Creek’s systems will be limited only to those specifically approved for valid business reasons.
-- The copying of data containing Nonpublic Information or other highly sensitive or confidential information to a user’s remote machine is prohibited unless such copying is necessary for business purposes, approved by Mill Creek, and the copied data is encrypted.
-- Remote access will be disconnected automatically after 1 hours of inactivity and will require a user to reauthenticate to regain access.
-Review of Access Rights
-- If a user’s status changes as a result of a promotion, transfer, demotion, or termination of employment, that user’s access rights will be reviewed and revised as necessary to ensure access remains limited only to those accounts with legitimate business purposes.
-- System accounts will be reviewed annually, and any account that cannot be associated with a user or business process shall be disabled.
-- User accounts assigned to third parties that have access to restricted or confidential information will be reviewed at least annually and access rights updated to ensure that those accounts have access only to what is needed for legitimate business purposes.
+*Mill Creek does not currently have remote access capabilities*
+
+<!-- - Multi-Factor Authentication (MFA) will be required for all individuals using an external network to access Mill Creek’s internal network. -->
+<!-- - Mill Creek’s MFA will require the use of two authentication methods: first, a username and password or PIN combination, and second, a method not based on user credentials, such as a certificate or token, that Mill Creek shall provision to the user. -->
+<!-- - All remote access communications to internal networks will be authenticated, encrypted and monitored within a log.  -->
+<!-- - All machines used for remote access will have the latest antivirus, security patches, and host-based firewall software installed, running, and enabled. -->
+<!-- - Third party access to Mill Creek’s systems will be limited only to those specifically approved for valid business reasons. -->
+<!-- - The copying of data containing Nonpublic Information or other highly sensitive or confidential information to a user’s remote machine is prohibited unless such copying is necessary for business purposes, approved by Mill Creek, and the copied data is encrypted. -->
+<!-- - Remote access will be disconnected automatically after 1 hours of inactivity and will require a user to reauthenticate to regain access. -->
+<!-- Review of Access Rights -->
+<!-- - If a user’s status changes as a result of a promotion, transfer, demotion, or termination of employment, that user’s access rights will be reviewed and revised as necessary to ensure access remains limited only to those accounts with legitimate business purposes. -->
+<!-- - System accounts will be reviewed annually, and any account that cannot be associated with a user or business process shall be disabled. -->
+<!-- - User accounts assigned to third parties that have access to restricted or confidential information will be reviewed at least annually and access rights updated to ensure that those accounts have access only to what is needed for legitimate business purposes. -->
 
