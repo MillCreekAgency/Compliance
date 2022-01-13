@@ -25,7 +25,7 @@ This Policy applies to all of Mill Creek’s data regardless of whether that dat
 
 - A process for establishing, activating, modifying, reviewing, disabling, and removing accounts will be formally documented, implemented, and maintained.
 - Whenever there is a change in a user’s employment status, that user’s access will be reviewed and removed or revised to ensure access is limited to only that needed for legitimate business purposes.
-- 	User access granted to third parties, including access granted to Third Party Service Providers and maintenance accounts, will be reviewed regularly and removed or revised to ensure access is limited only to those third party accounts with legitimate business purposes.
+- User access granted to third parties, including access granted to Third Party Service Providers and maintenance accounts, will be reviewed regularly and removed or revised to ensure access is limited only to those third party accounts with legitimate business purposes.
 - Guest/anonymous, shared/group, emergency, and temporary accounts will be specifically authorized and monitored.
 - Unnecessary accounts will be promptly be removed, disabled, or otherwise secured.
 - As a best practice, Mill Creek will require strong passwords for all user accounts.

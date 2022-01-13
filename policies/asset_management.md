@@ -25,7 +25,6 @@ Mill Creek will track all of its technology assets, including but not limited to
 - Printers, copiers, fax machines, and multi-function print devices
 - Mobile handheld devices such as phones
 - Scanners
-- Servers
 - Network devices (e.g., firewalls, routers, switches, uninterruptable power supplies, endpoint network hardware, and storage)
 - External storage devices (including USB thumb drives)
 	

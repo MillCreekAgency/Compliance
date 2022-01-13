@@ -21,7 +21,6 @@ This Policy covers all Mill Creek facilities and all Mill Creek information asse
 - Mill Creek’s walls shall be physically sound and of stable construct.
 - Entry to Mill Creek’s premises will be limited to authorized personnel by placing control mechanisms on external doors.
 - Doors to Mill Creek’s internal areas that contain its Information Systems and confidential and sensitive information (e.g., data center, communication closet, etc.) will be adequately secured.
-- Mill Creek will strictly control and limit the distribution of keys or passes (including ID badges, cards/passkeys) used to access secure areas and will frequently review who has such access to ensure that access remains limited to only those individuals who need it.
 - Mill Creek will establish, maintain, and review visitor logs periodically, and no less frequently than necessary to ensure effectiveness.
 - Visitor access to limited areas will be restricted.  Visitors will be escorted, supervised and monitored to ensure they do not access restricted areas or take away any of Mill Creek’s technology or information assets.
 

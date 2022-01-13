@@ -18,9 +18,9 @@ The Senior Officer responsible for Mill Creek’s cybersecurity:
 
 - Will work with key stakeholders to ensure Mill Creek’s data is reviewed and categorized.
 - Will ensure data classification labels are assigned based on data sensitivity and criticality (see data classification table).  Mill Creek’s data classifications are:
-- High – Restricted
-- Medium – Confidential
-- Low – Public
+  - High – Restricted
+  - Medium – Confidential
+  - Low – Public
 - Will ensure that data merged or compiled from multiple classification sources is classified at the most secure classification level.
 - Will ensure that data containing information with High and Medium classifications is secured pursuant to federal and/or state regulations and guidelines that pertain to Mill Creek.
 - Will ensure a set of proper access controls designed to protect each data classification label is implemented and, if feasible, monitored and audited.
