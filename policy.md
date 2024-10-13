@@ -2,7 +2,7 @@
 title: "Mill Creek Insurance Agency Cyber Policy"
 subtitle: "Compliant with 23 NYCRR 500.19"
 author:
-  - Bryce Thuilot <cyber@millcreekagency.com>
+  - Scott Heaney <cyber@millcreekagency.com>
 date: Last Updated \today
 ---
 
@@ -47,7 +47,7 @@ Mill Creek’s employees, contractors, consultants and temporary and part-time w
 - Not deliberately circumvent information security controls and not make Mill Creek resources available to any unauthorized persons.
 - Report suspicious activity and/or unauthorized access to Mill Creek’s Information Systems and/or information immediately to their manager or the Senior Officer.
 	
-*The Senior Office is Bryce Thuilot <cyber@millcreekagency.com> as of \today.*
+*The Senior Office is Scott Heaney <cyber@millcreekagency.com> as of \today.*
 
 
 #### Cybersecurity Policies to Support the Cybersecurity Program
